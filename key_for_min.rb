@@ -17,3 +17,5 @@ def key_for_min_value(name_hash)
  end
  j
 end
+
+#Wanted to take the first value in hash and compare to the rest but not allowed .values
